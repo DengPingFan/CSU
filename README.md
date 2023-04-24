@@ -1,5 +1,7 @@
 # Advances in Deep Concealed Scene Understanding
 
+<img align="right" src="./assets/csu-logo.png" width="350px" />
+
 This repository contains a collection of research papers, an evaluation toolbox, and benchmarking results for the task of concealed object segmentation (COS) in images. Additionally, to evaluate the generalizability of COS approaches, we re-organize a concealed defect segmentation dataset named CDS2K.
 
 - Paper link: arXiv (coming soon ...)
@@ -18,6 +20,8 @@ This repository contains a collection of research papers, an evaluation toolbox,
 
 ## CSU Background
 
+Concealed scene understanding (CSU) is a hot computer vision topic aiming to perceive objects with camouflaged properties. The current boom in its advanced techniques and novel applications makes it timely to provide an up-to-date survey to enable researchers to understand the global picture of the CSU field, including both current achievements and major challenges. 
+
 <p align="center">
     <img src="assets/dataset_sample_gallery.png" width="400"/> <br />
     <em> 
@@ -25,7 +29,7 @@ This repository contains a collection of research papers, an evaluation toolbox,
     </em>
 </p>
 
-Concealed scene understanding (CSU) is a hot computer vision topic aiming to perceive objects with camouflaged properties. The current boom in its advanced techniques and novel applications makes it timely to provide an up-to-date survey to enable researchers to understand the global picture of the CSU field, including both current achievements and major challenges. This paper makes four contributions:
+This paper makes four contributions:
 - For the first time, we present **a comprehensive survey** of the deep learning techniques oriented at CSU, including a background with its taxonomy, task-unique challenges, and a review of its developments in the deep learning era via surveying existing datasets and deep techniques. 
 - For a quantitative comparison of the state-of-the-art, we contribute **the largest and latest benchmark** for Concealed Object Segmentation (COS). 
 - To evaluate the transferability of deep CSU in practical scenarios, 
