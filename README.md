@@ -2,7 +2,7 @@
 
 <img align="right" src="./assets/csu-logo.png" width="350px" />
 
-This repository contains a collection of research papers, an evaluation toolbox, and benchmarking results for the task of concealed object segmentation (COS) in images. Additionally, to evaluate the generalizability of COS approaches, we re-organize a concealed defect segmentation dataset named CDS2K.
+This repository contains a collection of research papers, an evaluation toolbox, and benchmarking results for the task of concealed object segmentation (COS) in images. Besides, to evaluate the generalizability of COS approaches, we re-organize a concealed defect segmentation dataset named CDS2K.
 
 - Paper link: arXiv (coming soon ...)
 - This project is under construction. Contributions are welcome! If you would like to contribute to this repository, please submit a pull request.
