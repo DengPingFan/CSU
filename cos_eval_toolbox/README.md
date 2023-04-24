@@ -14,7 +14,7 @@ This repo provides one-key processing for nine evaluation metrics
 
 # One-command evaluation
 
-To evaluate concealed object segmentation (COS) approaches, you should prepare some libraries with the command: `pip install -r requirements.txt`. Then, just playing with this command:
+To evaluate concealed object segmentation (COS) approaches, you should prepare some libraries with the command: `pip install -r requirements.txt`. Then, download benchmark datasets ([OneDrive, 1.16GB](https://anu365-my.sharepoint.com/:u:/g/personal/u7248002_anu_edu_au/EWQU8s3I1cxLvQuYEt2g6gkBO4uwJ2bZq6Vuf9V1Hum7Lg?e=xMMcAr)) and prediction masks ([OneDrive, 4.82GB](https://anu365-my.sharepoint.com/:u:/g/personal/u7248002_anu_edu_au/Edk5mzHO5JNMv0LHDFBdTq4Bgrg_wmsmYg9hjOzh6-nAjw?e=xdVrT4)) just play with this command:
 
 ```bash
 python eval.py --dataset-json examples_COS/config_cos_dataset_py_example.json \
@@ -24,9 +24,12 @@ python eval.py --dataset-json examples_COS/config_cos_dataset_py_example.json \
 --record-txt output_COS/cos_results.txt
 ```
 
+Your results will store at `./cos_eval_toolbox/output_COS/cos_results.txt`
+
+
 # Custom your evaluation
 
-1. Put your prediction masks into customed file path like `./benchmark/COS-Benchmarking` and prepare your dataset like `./cos_eval_toolbox/dataset/COD10K/`. Then, generate the Python-style configs via
+1. Put your prediction masks into a custom file path like `./benchmark/COS-Benchmarking` and prepare your dataset like `./cos_eval_toolbox/dataset/COD10K/`. Then, generate the Python-style configs via
 
 ```bash
 python tools/generate_cos_config_files.py
@@ -44,7 +47,7 @@ python tools/info_py_to_json.py -i ./examples_COS -o ./examples_COS
 python tools/check_path.py -m examples_COS/config_cos_method_py_example.json -d examples_COS/config_cos_dataset_py_example.json
 ```
 
-4. start evaluate
+4. start to evaluate
 
 ```bash
 python eval.py --dataset-json examples_COS/config_cos_dataset_py_example.json \
@@ -101,4 +104,4 @@ python eval.py --dataset-json examples_COS/config_cos_dataset_py_example.json \
 
 # Acknowledgements
 
-This repo is built on [PySODEvalToolkit](https://github.com/lartpang/PySODEvalToolkit). We appriciate Dr. Pang for his excellent work, please refer [README.md](https://github.com/lartpang/PySODEvalToolkit/blob/master/readme.md) for more interesting plays. 
+This repo is built on [PySODEvalToolkit](https://github.com/lartpang/PySODEvalToolkit). We appreciate Dr Pang for his excellent work, please refer [README.md](https://github.com/lartpang/PySODEvalToolkit/blob/master/readme.md) for more interesting plays. 

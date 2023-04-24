@@ -19,7 +19,7 @@ This repository contains a collection of research papers, an evaluation toolbox,
 ## CSU Background
 
 <p align="center">
-    <img src="assets/dataset_sample_gallery.png"/> <br />
+    <img src="assets/dataset_sample_gallery.png" width="400"/> <br />
     <em> 
     Figure 1: Sample gallery of concealed scenarios. (a-d) show natural animals. (e) depicts a concealed human in art. (f) features a synthesized ``lion''.
     </em>
@@ -34,11 +34,11 @@ we re-organize **the largest concealed defect segmentation dataset** termed CDS2
 
 ## CSU Taxonomy
 
-We introduce a taxonomy of seven popular CSU tasks. Please refer Section 2.1 of our paper for more details.
+We introduce a taxonomy of seven popular CSU tasks. Please refer to Section 2.1 of our paper for more details.
 - Five of these are image-level tasks: (a) concealed object segmentation (COS), (b) concealed object localization (COL), (c) concealed instance ranking (CIR), (d) concealed instance segmentation (CIS), and (e) concealed object counting (COC). 
 - The remaining two are video-level tasks: (f) video concealed object segmentation (VCOS) and (g) video concealed object detection (VCOD). 
 
-We illustrate each task with its own corresponding annotation visualization. 
+We illustrate each task with its corresponding annotation visualization. 
 
 <p align="center">
     <img src="assets/task_definition.png"/> <br />
@@ -82,13 +82,13 @@ The following are ten datasets collected for several CSU-related tasks.
 Our benchmarking is built on COS tasks since this topic is relatively well-established and offers a variety of competing approaches. **WHAT DO WE PROVIDE HERE?**
 
 - First, we provide a one-key [evaluation toolbox](https://github.com/DengPingFan/CSU/tree/main/cos_eval_toolbox) for CSU. Please the follow instructions and then you will get the results.
-- Second, we run COS approaches on three popular benchmarks (CAMO, NC4K, and COD10K) and organize them into the standard format (*png). The collection of these prediction masks is public [here (OneDrive)]() for convenient research.
+- Second, we run COS approaches on three popular benchmarks (CAMO, NC4K, and COD10K) and organize them into the standard format (*png). The collection of these prediction masks is public [here (OneDrive, 4.82)](https://anu365-my.sharepoint.com/:u:/g/personal/u7248002_anu_edu_au/Edk5mzHO5JNMv0LHDFBdTq4Bgrg_wmsmYg9hjOzh6-nAjw?e=xdVrT4) for convenient research.
 - The benchmark results on nine evaluation metrics are reported in the next three tables. You can find the text file [here](https://github.com/DengPingFan/CSU/tree/main/cos_eval_toolbox/output_COS).
 
 <p align="center">
     <img src="assets/benchmark_camo.png"/> <br />
     <em> 
-    Table 4: Quantitative comparison on CAMO testing set.
+    Table 4: Quantitative comparison of CAMO testing set.
     </em>
 </p>
 
@@ -102,22 +102,22 @@ Our benchmarking is built on COS tasks since this topic is relatively well-estab
 <p align="center">
     <img src="assets/benchmark_cod10k.png"/> <br />
     <em> 
-    Table 6: Quantitative comparison on COD10K testing set.
+    Table 6: Quantitative comparison of COD10K testing set.
     </em>
 </p>
 
-- Lastly, we provide the attribute-based analyses on COD10K dataset
+- Lastly, we provide the attribute-based analyses on the COD10K dataset
 
 <p align="center">
     <img src="assets/cos_quali_viz.png"/> <br />
     <em> 
-    Figure 3: Qualitative results of ten COS approaches. More descriptions on visual attributes in each column refer to Section 5.6 of paper.
+    Figure 3: Qualitative results of ten COS approaches. For more descriptions of visual attributes in each column refer to Section 5.6 of the paper.
     </em>
 </p>
 
 ## Defect Segmentation Dataset -- CDS2K
 
-We organize a concealed defect segmentation dataset ([download link]()) from the five well-known defect segmentation databases. As shown in Figure 4, we present five sub-databases: (a-l) MVTecAD, (m-o) NEU, (p) CrackForest, (q) KolektorSDD, and (r) MagneticTile. The defective regions are highlighted with red rectangles. (Top-Right) Word cloud visualization of CDS2K. (Bottom) The statistic number of positive/negative samples of each category in our CDS2K.
+We organize a concealed defect segmentation dataset ([download, 159MB](https://anu365-my.sharepoint.com/:u:/g/personal/u7248002_anu_edu_au/EaInvU0siBNJvn6owmkbxbkBROwCGGt0ZUHmSj31XtaMPQ?e=wK6s9e)) from the five well-known defect segmentation databases. As shown in Figure 4, we present five sub-databases: (a-l) MVTecAD, (m-o) NEU, (p) CrackForest, (q) KolektorSDD, and (r) MagneticTile. The defective regions are highlighted with red rectangles. (Top-Right) Word cloud visualization of CDS2K. (Bottom) The statistic number of positive/negative samples of each category in our CDS2K.
 
 <p align="center">
     <img src="assets/cds2k.png"/> <br />
