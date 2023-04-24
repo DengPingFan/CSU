@@ -1,0 +1,35 @@
+{
+  "CAMO": {
+    "root": "./dataset/CAMO",
+    "image": {
+      "path": "./dataset/CAMO/Imgs",
+      "suffix": ".jpg"
+    },
+    "mask": {
+      "path": "./dataset/CAMO/GT",
+      "suffix": ".png"
+    }
+  },
+  "COD10K": {
+    "root": "./dataset/COD10K",
+    "image": {
+      "path": "./dataset/COD10K/Imgs",
+      "suffix": ".jpg"
+    },
+    "mask": {
+      "path": "./dataset/COD10K/GT",
+      "suffix": ".png"
+    }
+  },
+  "NC4K": {
+    "root": "./dataset/NC4K",
+    "image": {
+      "path": "./dataset/NC4K/Imgs",
+      "suffix": ".jpg"
+    },
+    "mask": {
+      "path": "./dataset/NC4K/GT",
+      "suffix": ".png"
+    }
+  }
+}

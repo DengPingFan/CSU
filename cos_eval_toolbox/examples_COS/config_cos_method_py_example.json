@@ -1,0 +1,494 @@
+{
+  "PFNet": {
+    "CAMO": {
+      "path": "./benchmark/COS-Benchmarking/2021-CVPR-PFNet/CAMO",
+      "suffix": ".png"
+    },
+    "NC4K": {
+      "path": "./benchmark/COS-Benchmarking/2021-CVPR-PFNet/NC4K",
+      "suffix": ".png"
+    },
+    "COD10K": {
+      "path": "./benchmark/COS-Benchmarking/2021-CVPR-PFNet/COD10K",
+      "suffix": ".png"
+    }
+  },
+  "C2FNetV2": {
+    "CAMO": {
+      "path": "./benchmark/COS-Benchmarking/2022-TCSVT-C2FNetV2/CAMO",
+      "suffix": ".png"
+    },
+    "NC4K": {
+      "path": "./benchmark/COS-Benchmarking/2022-TCSVT-C2FNetV2/NC4K",
+      "suffix": ".png"
+    },
+    "COD10K": {
+      "path": "./benchmark/COS-Benchmarking/2022-TCSVT-C2FNetV2/COD10K",
+      "suffix": ".png"
+    }
+  },
+  "CamoFormerS": {
+    "CAMO": {
+      "path": "./benchmark/COS-Benchmarking/2023-arXiv-CamoFormerS/CAMO",
+      "suffix": ".png"
+    },
+    "NC4K": {
+      "path": "./benchmark/COS-Benchmarking/2023-arXiv-CamoFormerS/NC4K",
+      "suffix": ".png"
+    },
+    "COD10K": {
+      "path": "./benchmark/COS-Benchmarking/2023-arXiv-CamoFormerS/COD10K",
+      "suffix": ".png"
+    }
+  },
+  "SINet": {
+    "CAMO": {
+      "path": "./benchmark/COS-Benchmarking/2020-CVPR-SINet/CAMO",
+      "suffix": ".png"
+    },
+    "NC4K": {
+      "path": "./benchmark/COS-Benchmarking/2020-CVPR-SINet/NC4K",
+      "suffix": ".png"
+    },
+    "COD10K": {
+      "path": "./benchmark/COS-Benchmarking/2020-CVPR-SINet/COD10K",
+      "suffix": ".png"
+    }
+  },
+  "C2FNet": {
+    "CAMO": {
+      "path": "./benchmark/COS-Benchmarking/2021-IJCAI-C2FNet/CAMO",
+      "suffix": ".png"
+    },
+    "NC4K": {
+      "path": "./benchmark/COS-Benchmarking/2021-IJCAI-C2FNet/NC4K",
+      "suffix": ".png"
+    },
+    "COD10K": {
+      "path": "./benchmark/COS-Benchmarking/2021-IJCAI-C2FNet/COD10K",
+      "suffix": ".png"
+    }
+  },
+  "ZoomNet": {
+    "CAMO": {
+      "path": "./benchmark/COS-Benchmarking/2022-CVPR-ZoomNet/CAMO",
+      "suffix": ".png"
+    },
+    "NC4K": {
+      "path": "./benchmark/COS-Benchmarking/2022-CVPR-ZoomNet/NC4K",
+      "suffix": ".png"
+    },
+    "COD10K": {
+      "path": "./benchmark/COS-Benchmarking/2022-CVPR-ZoomNet/COD10K",
+      "suffix": ".png"
+    }
+  },
+  "CamoFormerR": {
+    "CAMO": {
+      "path": "./benchmark/COS-Benchmarking/2023-arXiv-CamoFormerR/CAMO",
+      "suffix": ".png"
+    },
+    "NC4K": {
+      "path": "./benchmark/COS-Benchmarking/2023-arXiv-CamoFormerR/NC4K",
+      "suffix": ".png"
+    },
+    "COD10K": {
+      "path": "./benchmark/COS-Benchmarking/2023-arXiv-CamoFormerR/COD10K",
+      "suffix": ".png"
+    }
+  },
+  "SMGL": {
+    "CAMO": {
+      "path": "./benchmark/COS-Benchmarking/2021-CVPR-SMGL/CAMO",
+      "suffix": ".png"
+    },
+    "NC4K": {
+      "path": "./benchmark/COS-Benchmarking/2021-CVPR-SMGL/NC4K",
+      "suffix": ".png"
+    },
+    "COD10K": {
+      "path": "./benchmark/COS-Benchmarking/2021-CVPR-SMGL/COD10K",
+      "suffix": ".png"
+    }
+  },
+  "OCENet": {
+    "CAMO": {
+      "path": "./benchmark/COS-Benchmarking/2022-WACV-OCENet/CAMO",
+      "suffix": ".png"
+    },
+    "NC4K": {
+      "path": "./benchmark/COS-Benchmarking/2022-WACV-OCENet/NC4K",
+      "suffix": ".png"
+    },
+    "COD10K": {
+      "path": "./benchmark/COS-Benchmarking/2022-WACV-OCENet/COD10K",
+      "suffix": ".png"
+    }
+  },
+  "FAPNet": {
+    "CAMO": {
+      "path": "./benchmark/COS-Benchmarking/2022-TIP-FAPNet/CAMO",
+      "suffix": ".png"
+    },
+    "NC4K": {
+      "path": "./benchmark/COS-Benchmarking/2022-TIP-FAPNet/NC4K",
+      "suffix": ".png"
+    },
+    "COD10K": {
+      "path": "./benchmark/COS-Benchmarking/2022-TIP-FAPNet/COD10K",
+      "suffix": ".png"
+    }
+  },
+  "DTINet": {
+    "CAMO": {
+      "path": "./benchmark/COS-Benchmarking/2022-ICPR-DTINet/CAMO",
+      "suffix": ".png"
+    },
+    "NC4K": {
+      "path": "./benchmark/COS-Benchmarking/2022-ICPR-DTINet/NC4K",
+      "suffix": ".png"
+    },
+    "COD10K": {
+      "path": "./benchmark/COS-Benchmarking/2022-ICPR-DTINet/COD10K",
+      "suffix": ".png"
+    }
+  },
+  "RMGL": {
+    "CAMO": {
+      "path": "./benchmark/COS-Benchmarking/2021-CVPR-RMGL/CAMO",
+      "suffix": ".png"
+    },
+    "NC4K": {
+      "path": "./benchmark/COS-Benchmarking/2021-CVPR-RMGL/NC4K",
+      "suffix": ".png"
+    },
+    "COD10K": {
+      "path": "./benchmark/COS-Benchmarking/2021-CVPR-RMGL/COD10K",
+      "suffix": ".png"
+    }
+  },
+  "TPRNet": {
+    "CAMO": {
+      "path": "./benchmark/COS-Benchmarking/2022-TVCJ-TPRNet/CAMO",
+      "suffix": ".png"
+    },
+    "NC4K": {
+      "path": "./benchmark/COS-Benchmarking/2022-TVCJ-TPRNet/NC4K",
+      "suffix": ".png"
+    },
+    "COD10K": {
+      "path": "./benchmark/COS-Benchmarking/2022-TVCJ-TPRNet/COD10K",
+      "suffix": ".png"
+    }
+  },
+  "BSANet": {
+    "CAMO": {
+      "path": "./benchmark/COS-Benchmarking/2022-AAAI-BSANet/CAMO",
+      "suffix": ".png"
+    },
+    "NC4K": {
+      "path": "./benchmark/COS-Benchmarking/2022-AAAI-BSANet/NC4K",
+      "suffix": ".png"
+    },
+    "COD10K": {
+      "path": "./benchmark/COS-Benchmarking/2022-AAAI-BSANet/COD10K",
+      "suffix": ".png"
+    }
+  },
+  "PopNet": {
+    "CAMO": {
+      "path": "./benchmark/COS-Benchmarking/2023-arXiv-PopNet/CAMO",
+      "suffix": ".png"
+    },
+    "NC4K": {
+      "path": "./benchmark/COS-Benchmarking/2023-arXiv-PopNet/NC4K",
+      "suffix": ".png"
+    },
+    "COD10K": {
+      "path": "./benchmark/COS-Benchmarking/2023-arXiv-PopNet/COD10K",
+      "suffix": ".png"
+    }
+  },
+  "LSR": {
+    "CAMO": {
+      "path": "./benchmark/COS-Benchmarking/2021-CVPR-LSR/CAMO",
+      "suffix": ".png"
+    },
+    "NC4K": {
+      "path": "./benchmark/COS-Benchmarking/2021-CVPR-LSR/NC4K",
+      "suffix": ".png"
+    },
+    "COD10K": {
+      "path": "./benchmark/COS-Benchmarking/2021-CVPR-LSR/COD10K",
+      "suffix": ".png"
+    }
+  },
+  "CubeNet": {
+    "CAMO": {
+      "path": "./benchmark/COS-Benchmarking/2022-PR-CubeNet/CAMO",
+      "suffix": ".png"
+    },
+    "NC4K": null,
+    "COD10K": {
+      "path": "./benchmark/COS-Benchmarking/2022-PR-CubeNet/COD10K",
+      "suffix": ".png"
+    }
+  },
+  "JSCOD": {
+    "CAMO": {
+      "path": "./benchmark/COS-Benchmarking/2021-CVPR-JSCOD/CAMO",
+      "suffix": ".png"
+    },
+    "NC4K": {
+      "path": "./benchmark/COS-Benchmarking/2021-CVPR-JSCOD/NC4K",
+      "suffix": ".png"
+    },
+    "COD10K": {
+      "path": "./benchmark/COS-Benchmarking/2021-CVPR-JSCOD/COD10K",
+      "suffix": ".png"
+    }
+  },
+  "PFNetPlus": {
+    "CAMO": {
+      "path": "./benchmark/COS-Benchmarking/2023-SSCI-PFNetPlus/CAMO",
+      "suffix": ".png"
+    },
+    "NC4K": null,
+    "COD10K": {
+      "path": "./benchmark/COS-Benchmarking/2023-SSCI-PFNetPlus/COD10K",
+      "suffix": ".png"
+    }
+  },
+  "BAS": {
+    "CAMO": {
+      "path": "./benchmark/COS-Benchmarking/2022-arXiv-BAS/CAMO",
+      "suffix": ".png"
+    },
+    "NC4K": {
+      "path": "./benchmark/COS-Benchmarking/2022-arXiv-BAS/NC4K",
+      "suffix": ".png"
+    },
+    "COD10K": {
+      "path": "./benchmark/COS-Benchmarking/2022-arXiv-BAS/COD10K",
+      "suffix": ".png"
+    }
+  },
+  "D2CNet": {
+    "CAMO": {
+      "path": "./benchmark/COS-Benchmarking/2021-TIE-D2CNet/CAMO",
+      "suffix": ".png"
+    },
+    "NC4K": null,
+    "COD10K": {
+      "path": "./benchmark/COS-Benchmarking/2021-TIE-D2CNet/COD10K",
+      "suffix": ".png"
+    }
+  },
+  "PreyNet": {
+    "CAMO": {
+      "path": "./benchmark/COS-Benchmarking/2022-MM-PreyNet/CAMO",
+      "suffix": ".png"
+    },
+    "NC4K": {
+      "path": "./benchmark/COS-Benchmarking/2022-MM-PreyNet/NC4K",
+      "suffix": ".png"
+    },
+    "COD10K": {
+      "path": "./benchmark/COS-Benchmarking/2022-MM-PreyNet/COD10K",
+      "suffix": ".png"
+    }
+  },
+  "ERRNet": {
+    "CAMO": {
+      "path": "./benchmark/COS-Benchmarking/2022-PR-ERRNet/CAMO",
+      "suffix": ".png"
+    },
+    "NC4K": {
+      "path": "./benchmark/COS-Benchmarking/2022-PR-ERRNet/NC4K",
+      "suffix": ".png"
+    },
+    "COD10K": {
+      "path": "./benchmark/COS-Benchmarking/2022-PR-ERRNet/COD10K",
+      "suffix": ".png"
+    }
+  },
+  "SINetV2": {
+    "CAMO": {
+      "path": "./benchmark/COS-Benchmarking/2022-TPAMI-SINetV2/CAMO",
+      "suffix": ".png"
+    },
+    "NC4K": {
+      "path": "./benchmark/COS-Benchmarking/2022-TPAMI-SINetV2/NC4K",
+      "suffix": ".png"
+    },
+    "COD10K": {
+      "path": "./benchmark/COS-Benchmarking/2022-TPAMI-SINetV2/COD10K",
+      "suffix": ".png"
+    }
+  },
+  "SegMaR": {
+    "CAMO": {
+      "path": "./benchmark/COS-Benchmarking/2022-CVPR-SegMaR/CAMO",
+      "suffix": ".png"
+    },
+    "NC4K": {
+      "path": "./benchmark/COS-Benchmarking/2022-CVPR-SegMaR/NC4K",
+      "suffix": ".png"
+    },
+    "COD10K": {
+      "path": "./benchmark/COS-Benchmarking/2022-CVPR-SegMaR/COD10K",
+      "suffix": ".png"
+    }
+  },
+  "HitNet": {
+    "CAMO": {
+      "path": "./benchmark/COS-Benchmarking/2023-AAAI-HitNet/CAMO",
+      "suffix": ".png"
+    },
+    "NC4K": {
+      "path": "./benchmark/COS-Benchmarking/2023-AAAI-HitNet/NC4K",
+      "suffix": ".png"
+    },
+    "COD10K": {
+      "path": "./benchmark/COS-Benchmarking/2023-AAAI-HitNet/COD10K",
+      "suffix": ".png"
+    }
+  },
+  "TINet": {
+    "CAMO": {
+      "path": "./benchmark/COS-Benchmarking/2021-AAAI-TINet/CAMO",
+      "suffix": ".png"
+    },
+    "NC4K": {
+      "path": "./benchmark/COS-Benchmarking/2021-AAAI-TINet/NC4K",
+      "suffix": ".png"
+    },
+    "COD10K": {
+      "path": "./benchmark/COS-Benchmarking/2021-AAAI-TINet/COD10K",
+      "suffix": ".png"
+    }
+  },
+  "CRNet": {
+    "CAMO": {
+      "path": "./benchmark/COS-Benchmarking/2023-AAAI-CRNet/CAMO",
+      "suffix": ".png"
+    },
+    "NC4K": null,
+    "COD10K": {
+      "path": "./benchmark/COS-Benchmarking/2023-AAAI-CRNet/COD10K",
+      "suffix": ".png"
+    }
+  },
+  "BGNet": {
+    "CAMO": {
+      "path": "./benchmark/COS-Benchmarking/2022-IJCAI-BGNet/CAMO",
+      "suffix": ".png"
+    },
+    "NC4K": {
+      "path": "./benchmark/COS-Benchmarking/2022-IJCAI-BGNet/NC4K",
+      "suffix": ".png"
+    },
+    "COD10K": {
+      "path": "./benchmark/COS-Benchmarking/2022-IJCAI-BGNet/COD10K",
+      "suffix": ".png"
+    }
+  },
+  "UGTR": {
+    "CAMO": {
+      "path": "./benchmark/COS-Benchmarking/2021-ICCV-UGTR/CAMO",
+      "suffix": ".png"
+    },
+    "NC4K": {
+      "path": "./benchmark/COS-Benchmarking/2021-ICCV-UGTR/NC4K",
+      "suffix": ".png"
+    },
+    "COD10K": {
+      "path": "./benchmark/COS-Benchmarking/2021-ICCV-UGTR/COD10K",
+      "suffix": ".png"
+    }
+  },
+  "DGNet": {
+    "CAMO": {
+      "path": "./benchmark/COS-Benchmarking/2023-MIR-DGNet/CAMO",
+      "suffix": ".png"
+    },
+    "NC4K": {
+      "path": "./benchmark/COS-Benchmarking/2023-MIR-DGNet/NC4K",
+      "suffix": ".png"
+    },
+    "COD10K": {
+      "path": "./benchmark/COS-Benchmarking/2023-MIR-DGNet/COD10K",
+      "suffix": ".png"
+    }
+  },
+  "CamoFormerP": {
+    "CAMO": {
+      "path": "./benchmark/COS-Benchmarking/2023-arXiv-CamoFormerP/CAMO",
+      "suffix": ".png"
+    },
+    "NC4K": {
+      "path": "./benchmark/COS-Benchmarking/2023-arXiv-CamoFormerP/NC4K",
+      "suffix": ".png"
+    },
+    "COD10K": {
+      "path": "./benchmark/COS-Benchmarking/2023-arXiv-CamoFormerP/COD10K",
+      "suffix": ".png"
+    }
+  },
+  "NCHIT": {
+    "CAMO": {
+      "path": "./benchmark/COS-Benchmarking/2022-CVIU-NCHIT/CAMO",
+      "suffix": ".png"
+    },
+    "NC4K": {
+      "path": "./benchmark/COS-Benchmarking/2022-CVIU-NCHIT/NC4K",
+      "suffix": ".png"
+    },
+    "COD10K": {
+      "path": "./benchmark/COS-Benchmarking/2022-CVIU-NCHIT/COD10K",
+      "suffix": ".png"
+    }
+  },
+  "FDNet": {
+    "CAMO": {
+      "path": "./benchmark/COS-Benchmarking/2022-CVPR-FDNet/CAMO",
+      "suffix": ".png"
+    },
+    "NC4K": {
+      "path": "./benchmark/COS-Benchmarking/2022-CVPR-FDNet/NC4K",
+      "suffix": ".png"
+    },
+    "COD10K": {
+      "path": "./benchmark/COS-Benchmarking/2022-CVPR-FDNet/COD10K",
+      "suffix": ".png"
+    }
+  },
+  "DGNetS": {
+    "CAMO": {
+      "path": "./benchmark/COS-Benchmarking/2023-MIR-DGNetS/CAMO",
+      "suffix": ".png"
+    },
+    "NC4K": {
+      "path": "./benchmark/COS-Benchmarking/2023-MIR-DGNetS/NC4K",
+      "suffix": ".png"
+    },
+    "COD10K": {
+      "path": "./benchmark/COS-Benchmarking/2023-MIR-DGNetS/COD10K",
+      "suffix": ".png"
+    }
+  },
+  "CamoFormerC": {
+    "CAMO": {
+      "path": "./benchmark/COS-Benchmarking/2023-arXiv-CamoFormerC/CAMO",
+      "suffix": ".png"
+    },
+    "NC4K": {
+      "path": "./benchmark/COS-Benchmarking/2023-arXiv-CamoFormerC/NC4K",
+      "suffix": ".png"
+    },
+    "COD10K": {
+      "path": "./benchmark/COS-Benchmarking/2023-arXiv-CamoFormerC/COD10K",
+      "suffix": ".png"
+    }
+  }
+}
