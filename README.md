@@ -146,6 +146,6 @@ Please cite our paper if you find the work useful:
     @article{fan2023csu,
       title={Advances in Deep Concealed Scene Understanding},
       author={Fan, Deng-Ping and Ji, Ge-Peng and Xu, Peng and Cheng, Ming-Ming and Sakaridis, Christos and Van Gool, Luc},
-      journal={arXiv preprint},
+      journal={arXiv preprint:2304.11234},
       year={2023}
     }
