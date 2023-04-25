@@ -4,7 +4,7 @@
 
 This repository contains a collection of research papers, an evaluation toolbox, and benchmarking results for the task of concealed object segmentation (COS) in images. Besides, to evaluate the generalizability of COS approaches, we re-organize a concealed defect segmentation dataset named CDS2K.
 
-- Paper link: arXiv (coming soon ...)
+- Paper link: [arXiv](https://arxiv.org/abs/2304.11234)
 - This project is under construction. Contributions are welcome! If you would like to contribute to this repository, please submit a pull request.
 
 ## Table of Contents
@@ -86,7 +86,7 @@ The following are ten datasets collected for several CSU-related tasks.
 Our benchmarking is built on COS tasks since this topic is relatively well-established and offers a variety of competing approaches. **WHAT DO WE PROVIDE HERE?**
 
 - First, we provide a one-key [evaluation toolbox](https://github.com/DengPingFan/CSU/tree/main/cos_eval_toolbox) for CSU. Please the follow instructions and then you will get the results.
-- Second, we run COS approaches on three popular benchmarks (CAMO, NC4K, and COD10K) and organize them into the standard format (*png). The collection of these prediction masks is public [here (OneDrive, 4.82)](https://anu365-my.sharepoint.com/:u:/g/personal/u7248002_anu_edu_au/Edk5mzHO5JNMv0LHDFBdTq4Bgrg_wmsmYg9hjOzh6-nAjw?e=xdVrT4) for convenient research.
+- Second, we run COS approaches on three popular benchmarks (CAMO, NC4K, and COD10K) and organize them into the standard format (*png). The collection of these prediction masks is public [here (OneDrive, 4.82GB)](https://anu365-my.sharepoint.com/:u:/g/personal/u7248002_anu_edu_au/Edk5mzHO5JNMv0LHDFBdTq4Bgrg_wmsmYg9hjOzh6-nAjw?e=xdVrT4) for convenient research.
 - The benchmark results on nine evaluation metrics are reported in the next three tables. You can find the text file [here](https://github.com/DengPingFan/CSU/tree/main/cos_eval_toolbox/output_COS).
 
 <p align="center">
