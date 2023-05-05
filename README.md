@@ -141,6 +141,15 @@ The average ratio of defective regions for each category is presented in Table 7
 
 Next, we report the quantitative comparison on the positive samples of CDS2K. Kindly download the result map on [OneDrive Link](https://anu365-my.sharepoint.com/:u:/g/personal/u7248002_anu_edu_au/EfkiOnKlEIJKotJwXTyBl64B39ZF7b38weJFQwMFr98kIw?e=uCWFUa).
 
+<p align="center">
+    <img src="assets/cds2k-benchmark.png"/> <br />
+    <em> 
+    Table 8: SQuantitative comparison on the positive samples of CDS2K.
+    </em>
+</p>
+
+
+
 ## Citation
 
 Please cite our paper if you find the work useful:
