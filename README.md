@@ -86,7 +86,7 @@ The following are ten datasets collected for several CSU-related tasks.
 Our benchmarking is built on COS tasks since this topic is relatively well-established and offers a variety of competing approaches. **WHAT DO WE PROVIDE HERE?**
 
 - First, we provide a one-key [evaluation toolbox](https://github.com/DengPingFan/CSU/tree/main/cos_eval_toolbox) for CSU. Please the follow instructions and then you will get the results.
-- Second, we run COS approaches on three popular benchmarks (CAMO, NC4K, and COD10K) and organize them into the standard format (*png) [Google Drive, 1.16GB](https://drive.google.com/file/d/1v5AZ37YlSjKiBMrfYXhZ9wa9dJLyFuVD/view?usp=sharing). The collection of these prediction masks is public [here (Google Drive, 4.82GB)]() for convenient research.
+- Second, we run COS approaches on three popular benchmarks (CAMO, NC4K, and COD10K) and organize them into the standard format (*png) [Google Drive, 1.16GB](https://drive.google.com/file/d/1v5AZ37YlSjKiBMrfYXhZ9wa9dJLyFuVD/view?usp=sharing). The collection of these prediction masks is public [here (Google Drive, 4.82GB)](https://drive.google.com/file/d/1BPyE6KtQvi8f1gL0IVsILlkv5C00GZYg/view?usp=sharing) for convenient research.
 - The benchmark results on nine evaluation metrics are reported in the next three tables. You can find the text file [here](https://github.com/DengPingFan/CSU/tree/main/cos_eval_toolbox/output_COS).
 
 <p align="center">
