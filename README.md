@@ -86,7 +86,7 @@ The following are ten datasets collected for several CSU-related tasks.
 Our benchmarking is built on COS tasks since this topic is relatively well-established and offers a variety of competing approaches. **WHAT DO WE PROVIDE HERE?**
 
 - First, we provide a one-key [evaluation toolbox](https://github.com/DengPingFan/CSU/tree/main/cos_eval_toolbox) for CSU. Please the follow instructions and then you will get the results.
-- Second, we run COS approaches on three popular benchmarks (CAMO, NC4K, and COD10K) and organize them into the standard format (*png). The collection of these prediction masks is public [here (OneDrive, 4.82GB)](https://anu365-my.sharepoint.com/:u:/g/personal/u7248002_anu_edu_au/Edk5mzHO5JNMv0LHDFBdTq4Bgrg_wmsmYg9hjOzh6-nAjw?e=xdVrT4) for convenient research.
+- Second, we run COS approaches on three popular benchmarks (CAMO, NC4K, and COD10K) and organize them into the standard format (*png) [Google Drive, 1.16GB](https://drive.google.com/file/d/1v5AZ37YlSjKiBMrfYXhZ9wa9dJLyFuVD/view?usp=sharing). The collection of these prediction masks is public [here (Google Drive, 4.82GB)]() for convenient research.
 - The benchmark results on nine evaluation metrics are reported in the next three tables. You can find the text file [here](https://github.com/DengPingFan/CSU/tree/main/cos_eval_toolbox/output_COS).
 
 <p align="center">
@@ -121,7 +121,7 @@ Our benchmarking is built on COS tasks since this topic is relatively well-estab
 
 ## Defect Segmentation Dataset -- CDS2K
 
-We organize a concealed defect segmentation dataset ([download, 159MB](https://anu365-my.sharepoint.com/:u:/g/personal/u7248002_anu_edu_au/EaInvU0siBNJvn6owmkbxbkBROwCGGt0ZUHmSj31XtaMPQ?e=wK6s9e)) from the five well-known defect segmentation databases. As shown in Figure 4, we present five sub-databases: (a-l) MVTecAD, (m-o) NEU, (p) CrackForest, (q) KolektorSDD, and (r) MagneticTile. The defective regions are highlighted with red rectangles. (Top-Right) Word cloud visualization of CDS2K. (Bottom) The statistic number of positive/negative samples of each category in our CDS2K.
+We organize a concealed defect segmentation dataset ([Google Drive, 159MB](https://drive.google.com/file/d/1OGPR34qCNWHVYwyf9OY6IH-7WHzPkC7-/view?usp=sharing)) from the five well-known defect segmentation databases. As shown in Figure 4, we present five sub-databases: (a-l) MVTecAD, (m-o) NEU, (p) CrackForest, (q) KolektorSDD, and (r) MagneticTile. The defective regions are highlighted with red rectangles. (Top-Right) Word cloud visualization of CDS2K. (Bottom) The statistic number of positive/negative samples of each category in our CDS2K.
 
 <p align="center">
     <img src="assets/cds2k.png"/> <br />
@@ -139,7 +139,7 @@ The average ratio of defective regions for each category is presented in Table 7
     </em>
 </p>
 
-Next, we report the quantitative comparison on the positive samples of CDS2K. Kindly download the result map on [OneDrive Link](https://anu365-my.sharepoint.com/:u:/g/personal/u7248002_anu_edu_au/EfkiOnKlEIJKotJwXTyBl64B39ZF7b38weJFQwMFr98kIw?e=uCWFUa).
+Next, we report the quantitative comparison on the positive samples of CDS2K. Kindly download the result map on [Google Drive (116.6MB)](https://drive.google.com/file/d/1GIP0hdppaBJxV1SSRSOIccn1UgFm0J-l/view?usp=sharing).
 
 <p align="center">
     <img src="assets/cds2k-benchmark.png"/> <br />
